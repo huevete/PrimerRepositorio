@@ -1,2 +1,5 @@
-Voy a empezar a meter código
+﻿Voy a empezar a meter código
 linea de conflicto
+Vuelvo a modificar el segundo docuemnto
+tercera linea del docuemto
+
